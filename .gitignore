@@ -1,3 +1,5 @@
 .venv
-.imagenes
-.imagenes_redimensionadas
+imagenes
+imagenes_redimensionadas
+mi_dataset
+digit_classifier.keras
